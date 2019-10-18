@@ -1,5 +1,5 @@
 {
-  "Customers" : [
+  "customers" : [
     {
       "id" : 1,
       "name": "CustomerA",
