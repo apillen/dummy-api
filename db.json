@@ -1,0 +1,25 @@
+{
+  "Customers" : [
+    {
+      "id" : 1,
+      "name": "CustomerA",
+      "command": "Command Name",
+      "contact": "John Doe",
+      "status": "Active"
+    },
+    {
+      "id" : 2,
+      "name": "CustomerA",
+      "command": "Command Name",
+      "contact": "John Doe",
+      "status": "Active"
+    },
+    {
+      "id" : 3,
+      "name": "CustomerA",
+      "command": "Command Name",
+      "contact": "John Doe",
+      "status": "Active"
+    }  
+  ]
+}
