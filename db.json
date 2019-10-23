@@ -24,5 +24,10 @@
       "status": "Active",
       "program": "Program A"
     }  
-  ]
+  ],
+  "validate" : 
+  {
+    "true": true,
+    "false": false    
+  }
 }
