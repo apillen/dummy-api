@@ -29,5 +29,6 @@
   {
     "true": true,
     "false": false    
-  }
+  },
+  "validatetrue": true
 }
