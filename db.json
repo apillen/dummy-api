@@ -42,17 +42,15 @@
   },
   "whyus": {
     "heading": "Why Us",
-    "sections": {
-      [
-        {
-          "heading": "Centralized Requirements Development/Management",
-          "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras lorem diam, vestibulum eget lacinia luctus, ullamcorper eu felis. Nulla quis finibus est. Proin justo felis, scelerisque ut sodales ac, fermentum eget nulla. Curabitur et porttitor risus, a lacinia urna. Nunc consequat a metus vitae mattis. Aliquam tempus augue sit amet ipsum euismod lobortis. Pellentesque condimentum commodo velit, sed rhoncus libero dapibus sit amet. Vestibulum accumsan, mauris nec dictum auctor, elit sem rhoncus urna, nec rutrum nisi ligula eget odio. Fusce bibendum, diam id consectetur suscipit, sapien odio laoreet magna, nec accumsan dolor erat in sapien. Morbi dapibus imperdiet urna at hendrerit. Maecenas eleifend eros lorem, a placerat mauris sagittis ac. Proin nec fringilla orci. Donec interdum arcu non nunc posuere scelerisque. In hac habitasse platea dictumst."
-        },
-        {
-          "heading": "Definitions of Standards to Align Interfaces",
-          "content": "Praesent volutpat leo id aliquet sagittis. Nulla ut sollicitudin velit. Aenean sollicitudin porttitor porta. Aenean et malesuada lacus, non bibendum nisl. Proin ut vulputate leo, id tincidunt dolor. Donec in convallis purus, eget convallis est. Nulla vitae iaculis sem, ut venenatis velit. Pellentesque eget turpis vehicula sapien condimentum volutpat. Pellentesque eu egestas velit. Proin ultrices tortor ut augue mollis, et finibus urna efficitur. In ante est, iaculis sed dui nec, eleifend tincidunt ex."
-        }
-      ]
-    }
+    "sections": [      
+      {
+        "heading": "Centralized Requirements Development/Management",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras lorem diam, vestibulum eget lacinia luctus, ullamcorper eu felis. Nulla quis finibus est. Proin justo felis, scelerisque ut sodales ac, fermentum eget nulla. Curabitur et porttitor risus, a lacinia urna. Nunc consequat a metus vitae mattis. Aliquam tempus augue sit amet ipsum euismod lobortis. Pellentesque condimentum commodo velit, sed rhoncus libero dapibus sit amet. Vestibulum accumsan, mauris nec dictum auctor, elit sem rhoncus urna, nec rutrum nisi ligula eget odio. Fusce bibendum, diam id consectetur suscipit, sapien odio laoreet magna, nec accumsan dolor erat in sapien. Morbi dapibus imperdiet urna at hendrerit. Maecenas eleifend eros lorem, a placerat mauris sagittis ac. Proin nec fringilla orci. Donec interdum arcu non nunc posuere scelerisque. In hac habitasse platea dictumst."
+      },
+      {
+        "heading": "Definitions of Standards to Align Interfaces",
+        "content": "Praesent volutpat leo id aliquet sagittis. Nulla ut sollicitudin velit. Aenean sollicitudin porttitor porta. Aenean et malesuada lacus, non bibendum nisl. Proin ut vulputate leo, id tincidunt dolor. Donec in convallis purus, eget convallis est. Nulla vitae iaculis sem, ut venenatis velit. Pellentesque eget turpis vehicula sapien condimentum volutpat. Pellentesque eu egestas velit. Proin ultrices tortor ut augue mollis, et finibus urna efficitur. In ante est, iaculis sed dui nec, eleifend tincidunt ex."
+      }      
+    ]
   }
 }
